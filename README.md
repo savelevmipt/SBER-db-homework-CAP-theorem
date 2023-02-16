@@ -30,6 +30,9 @@ ScyllaDB supports eventual consistency patterns from very low consistency with a
 
 https://www.scylladb.com/glossary/cap-theorem/
 
+![image](https://user-images.githubusercontent.com/100207961/219349366-2ba9da47-9646-4a89-a29b-da984971572c.png)
+
+
 ScyllaDB uses  a model of tunable eventual consistency to deliver multi datacenter high availability and fast and efficient write and read operations. In this case, all nodes are equal; this means any node can serve any request, there is no single point of coordination, and all nodes in the system continue to cooperatively provide service, even when nodes become unavailable. Eventual consistency supports modern workloads that are less dependent on strong consistency but rely heavily on availability.
 
 ScyllaDB is a PA/EL highly available, partition tolerant, low latency database system. ScyllaDB was designed to provide consistent low-latencies, not just be highly available, and it also provides tunable consistency. Under any conditions short of a complete system failure, ScyllaDB will remain highly available with predictable low latencies for mission critical applications.
