@@ -1,9 +1,9 @@
-## DragonFly -- CA
+## DragonFly - CA
 
 [Simple Vertical Scaling](https://dragonflydb.io/)
 Dragonfly is architected to scale vertically on a **single machine**, saving teams the cost and complexity of managing a multi-node cluster. For in-memory datasets up to 1TB, Dragonfly offers the simplest and **most** **reliable** scale on the market. 
 
-## [ArenadataDB -- CP](https://arenadata.tech/products/arenadata-db/)
+## [ArenadataDB - CP](https://arenadata.tech/products/arenadata-db/)
 
 С Arenadata DB вы построите надёжное, **масштабируемое** корпоративное хранилище данных, которое будет расти вместе с вашими потребностями.
 
@@ -17,7 +17,7 @@ Arenadata DB реализована на кластере из множеств�
 
 
 
-## ScyllaDB -- AP
+## ScyllaDB - AP
 
 ![image](https://user-images.githubusercontent.com/100207961/219349366-2ba9da47-9646-4a89-a29b-da984971572c.png)
 
