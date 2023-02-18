@@ -1,6 +1,7 @@
 ## DragonFly - CA
 
 [Simple Vertical Scaling](https://dragonflydb.io/)
+
 Dragonfly is architected to scale vertically on a **single machine**, saving teams the cost and complexity of managing a multi-node cluster. For in-memory datasets up to 1TB, Dragonfly offers the simplest and **most** **reliable** scale on the market. 
 
 ## [ArenadataDB - CP](https://arenadata.tech/products/arenadata-db/)
